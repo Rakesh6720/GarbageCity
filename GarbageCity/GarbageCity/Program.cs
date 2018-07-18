@@ -26,7 +26,7 @@ namespace GarbageCity
                 try
                 {
                     var context = services.GetRequiredService<CompanyContext>();
-                    //context.Database.EnsureCreated();
+                    context.Database.EnsureCreated();
                     DbInitializer.Initialize(context);
                 }
                 catch (Exception ex)

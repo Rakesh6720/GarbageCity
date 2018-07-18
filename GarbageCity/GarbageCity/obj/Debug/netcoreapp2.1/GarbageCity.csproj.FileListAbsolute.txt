@@ -40,3 +40,6 @@ C:\Users\rbaru\OneDrive\Desktop\Visual_Studio_Projects\GarbageCity_MvcCore\Garba
 C:\Users\rbaru\OneDrive\Desktop\Visual_Studio_Projects\GarbageCity_MvcCore\GarbageCity\GarbageCity\obj\Debug\netcoreapp2.1\Razor\Pages\Employees\Details.g.cshtml.cs
 C:\Users\rbaru\OneDrive\Desktop\Visual_Studio_Projects\GarbageCity_MvcCore\GarbageCity\GarbageCity\obj\Debug\netcoreapp2.1\Razor\Pages\Employees\Edit.g.cshtml.cs
 C:\Users\rbaru\OneDrive\Desktop\Visual_Studio_Projects\GarbageCity_MvcCore\GarbageCity\GarbageCity\obj\Debug\netcoreapp2.1\Razor\Pages\Employees\Index.g.cshtml.cs
+C:\Users\rbaru\OneDrive\Desktop\Visual_Studio_Projects\GarbageCity_MvcCore\GarbageCity\GarbageCity\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\rbaru\OneDrive\Desktop\Visual_Studio_Projects\GarbageCity_MvcCore\GarbageCity\GarbageCity\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+C:\Users\rbaru\OneDrive\Desktop\Visual_Studio_Projects\GarbageCity_MvcCore\GarbageCity\GarbageCity\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_LoginPartial.g.cshtml.cs
